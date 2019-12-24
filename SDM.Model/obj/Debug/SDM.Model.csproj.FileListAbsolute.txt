@@ -1,0 +1,24 @@
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM.Model.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM.Model.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.Model\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.Model\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.Model\obj\Debug\SDM.Model.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.Model\obj\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.Model\obj\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.Model\obj\Debug\SDM.Model.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.Model\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.Model\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.Model\obj\Debug\SDM.Model.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.Model\obj\Debug\SDM.Model.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.Model\obj\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.Model\obj\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.Model\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.Model\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.Model\obj\Debug\SDM.Model.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.Model\obj\Debug\SDM.Model.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.Model\obj\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.Model\obj\Debug\SDM.Model.pdb

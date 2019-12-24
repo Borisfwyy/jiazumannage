@@ -1,0 +1,5 @@
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\bin\Debug\SDM_Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\bin\Debug\SDM_Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM_Model.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM_Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_Model\obj\Debug\SDM_Model.pdb

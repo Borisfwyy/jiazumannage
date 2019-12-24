@@ -1,0 +1,11 @@
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\bin\Debug\SDM_DAL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\bin\Debug\SDM_Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\bin\Debug\SDM_DAL.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\bin\Debug\SDM_Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\obj\Debug\SDM_BLL.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\obj\Debug\SDM_BLL.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\obj\Debug\SDM_BLL.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,246 @@
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\WEB1.dll.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\WEB1.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\WEB1.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\csc.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\csc.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\csc.rsp
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\csi.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\csi.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\csi.rsp
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.AppContext.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Collections.Immutable.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Console.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.IO.Compression.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.IO.FileSystem.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.IO.Pipes.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Reflection.Metadata.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.Claims.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.ValueTuple.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Xml.XPath.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\vbc.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\vbc.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\vbc.rsp
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\VBCSCompiler.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\roslyn\VBCSCompiler.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\ClassLibrary1.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\SDM_Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\ClassLibrary1.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\SDM_Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\obj\Debug\UI.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\obj\Debug\UI.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\obj\Debug\WEB1.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\WEB1\obj\Debug\WEB1.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\UI.dll.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\UI.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\UI.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\csc.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\csc.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\csc.rsp
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\csi.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\csi.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\csi.rsp
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.AppContext.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Console.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.IO.Compression.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.IO.FileSystem.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.IO.Pipes.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.Claims.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.ValueTuple.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Xml.XPath.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\vbc.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\vbc.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\vbc.rsp
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\VBCSCompiler.exe
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\SDM.BLL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\SDM.BLL.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\obj\Debug\UI.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\obj\Debug\UI.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\UI\obj\Debug\UI.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\UI.dll.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\UI.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\UI.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\csc.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\csc.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\csc.rsp
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\csi.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\csi.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\csi.rsp
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.AppContext.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Console.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.IO.Compression.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.IO.FileSystem.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.IO.Pipes.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.Claims.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.ValueTuple.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Xml.XPath.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\vbc.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\vbc.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\vbc.rsp
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\VBCSCompiler.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\SDM.BLL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\SDM.BLL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\obj\Debug\UI.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\obj\Debug\UI.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\UI\obj\Debug\UI.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\UI.dll.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\UI.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\UI.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\csc.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\csc.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\csc.rsp
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\csi.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\csi.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\csi.rsp
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.AppContext.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Console.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.IO.Compression.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.IO.FileSystem.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.IO.Pipes.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.AccessControl.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.Claims.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.ValueTuple.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Xml.XPath.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\vbc.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\vbc.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\vbc.rsp
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\VBCSCompiler.exe
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\SDM.BLL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\SDM.BLL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\obj\Debug\UI.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\obj\Debug\UI.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\UI\obj\Debug\UI.pdb

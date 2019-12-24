@@ -1,0 +1,36 @@
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\obj\Debug\SDM.DAL.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\obj\Debug\SDM.DAL.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\obj\Debug\SDM.DAL.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\bin\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\bin\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\obj\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM_DAL\obj\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\bin\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\bin\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\obj\Debug\SDM.DAL.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\obj\Debug\SDM.DAL.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\obj\Debug\SDM.DAL.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\obj\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\StudentShow\SDM.DAL\obj\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\bin\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\bin\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\obj\Debug\SDM.DAL.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\obj\Debug\SDM.DAL.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\obj\Debug\SDM.DAL.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\obj\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理\SDM.DAL\obj\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\bin\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\bin\Debug\SDM.DAL.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\bin\Debug\SDM.Model.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\bin\Debug\SDM.Model.pdb
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\obj\Debug\SDM.DAL.csprojAssemblyReference.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\obj\Debug\SDM.DAL.csproj.CoreCompileInputs.cache
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\obj\Debug\SDM.DAL.csproj.CopyComplete
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\obj\Debug\SDM.DAL.dll
+D:\编程\ASP.NET\学生成果展示\家族人员管理 - 副本\SDM.DAL\obj\Debug\SDM.DAL.pdb

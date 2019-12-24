@@ -1,0 +1,521 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2A318191-9146-4AFA-BEFC-9398F5E07375}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AspNetPager, Version=7.2.0.0, Culture=neutral, PublicKeyToken=fb0a0fe055d40fd4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AspNetPager.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="admin\AdminInfo.aspx" />
+    <Content Include="admin\css.css" />
+    <Content Include="admin\css\3af1bf1fa0061831.css" />
+    <Content Include="admin\css\admin.css" />
+    <Content Include="admin\css\body.css" />
+    <Content Include="admin\fonts\fontawesome-webfont.svg" />
+    <Content Include="admin\foot.aspx" />
+    <Content Include="admin\GerenInfo.aspx" />
+    <Content Include="admin\GerenInfoAdd.aspx" />
+    <Content Include="admin\images\!.gif" />
+    <Content Include="admin\images\1470991881.jpg" />
+    <Content Include="admin\images\1470992331.jpg" />
+    <Content Include="admin\images\1470996804.jpg" />
+    <Content Include="admin\images\20131228_153538.jpg" />
+    <Content Include="admin\images\action_delete.gif" />
+    <Content Include="admin\images\ad.gif" />
+    <Content Include="admin\images\add.gif" />
+    <Content Include="admin\images\add.png" />
+    <Content Include="admin\images\admin.css" />
+    <Content Include="admin\images\admin_p.gif" />
+    <Content Include="admin\images\back.gif" />
+    <Content Include="admin\images\badge_cancel.png" />
+    <Content Include="admin\images\badge_save_outline.png" />
+    <Content Include="admin\images\bg.gif" />
+    <Content Include="admin\images\bigsize.jpg" />
+    <Content Include="admin\images\bootnbg.jpg" />
+    <Content Include="admin\images\btnCancle.gif" />
+    <Content Include="admin\images\btnLogin.gif" />
+    <Content Include="admin\images\bt_login.gif" />
+    <Content Include="admin\images\bullet.gif" />
+    <Content Include="admin\images\buttom-copy-bg.gif" />
+    <Content Include="admin\images\buttom-left.gif" />
+    <Content Include="admin\images\buttom-right.gif" />
+    <Content Include="admin\images\buttom_bgs.gif" />
+    <Content Include="admin\images\buttom_left2.gif" />
+    <Content Include="admin\images\buttom_right2.gif" />
+    <Content Include="admin\images\card.jpg" />
+    <Content Include="admin\images\case.jpg" />
+    <Content Include="admin\images\check-out_.gif" />
+    <Content Include="admin\images\close.gif" />
+    <Content Include="admin\images\content-bg-line.gif" />
+    <Content Include="admin\images\content-bg.gif" />
+    <Content Include="admin\images\database_import_.gif" />
+    <Content Include="admin\images\DefaultDocs.gif" />
+    <Content Include="admin\images\defind.gif" />
+    <Content Include="admin\images\del.jpg" />
+    <Content Include="admin\images\delete.gif" />
+    <Content Include="admin\images\delete_6.gif" />
+    <Content Include="admin\images\dl.gif" />
+    <Content Include="admin\images\edit.gif" />
+    <Content Include="admin\images\ershou_1.gif" />
+    <Content Include="admin\images\ershou_2.gif" />
+    <Content Include="admin\images\format.gif" />
+    <Content Include="admin\images\fox.css" />
+    <Content Include="admin\images\g.gif" />
+    <Content Include="admin\images\gw.gif" />
+    <Content Include="admin\images\gw2.gif" />
+    <Content Include="admin\images\gy.jpg" />
+    <Content Include="admin\images\header_bg.jpg" />
+    <Content Include="admin\images\icon-arrowbtn.png" />
+    <Content Include="admin\images\icon-demo.gif" />
+    <Content Include="admin\images\icon-login-seaver.gif" />
+    <Content Include="admin\images\icon-mail2.gif" />
+    <Content Include="admin\images\icon-phone.gif" />
+    <Content Include="admin\images\icon2_004.png" />
+    <Content Include="admin\images\icon2_089.png" />
+    <Content Include="admin\images\icon2_090.png" />
+    <Content Include="admin\images\imagedelete.gif" />
+    <Content Include="admin\images\imageedit.gif" />
+    <Content Include="admin\images\image_%28add%296.gif" />
+    <Content Include="admin\images\image_1.gif" />
+    <Content Include="admin\images\ipsecurity.gif" />
+    <Content Include="admin\images\l1b3.gif" />
+    <Content Include="admin\images\l1b4.gif" />
+    <Content Include="admin\images\l1b5.gif" />
+    <Content Include="admin\images\left-bg.gif" />
+    <Content Include="admin\images\left-top-right.gif" />
+    <Content Include="admin\images\line2.jpg" />
+    <Content Include="admin\images\linkspic3.gif" />
+    <Content Include="admin\images\linkspic6.gif" />
+    <Content Include="admin\images\lm.gif" />
+    <Content Include="admin\images\lminfo.gif" />
+    <Content Include="admin\images\loading.gif" />
+    <Content Include="admin\images\login-buttom-bg.gif" />
+    <Content Include="admin\images\login-content-bg.gif" />
+    <Content Include="admin\images\login-top-bg.gif" />
+    <Content Include="admin\images\login-wel.gif" />
+    <Content Include="admin\images\login_03.gif" />
+    <Content Include="admin\images\login_04.gif" />
+    <Content Include="admin\images\login_06.gif" />
+    <Content Include="admin\images\login_07.gif" />
+    <Content Include="admin\images\login_08.gif" />
+    <Content Include="admin\images\login_09.gif" />
+    <Content Include="admin\images\login_3.jpg" />
+    <Content Include="admin\images\login_4.jpg" />
+    <Content Include="admin\images\login_5.jpg" />
+    <Content Include="admin\images\login_6.gif" />
+    <Content Include="admin\images\login_bg.jpg" />
+    <Content Include="admin\images\Login_but.gif" />
+    <Content Include="admin\images\logo.gif" />
+    <Content Include="admin\images\logo.png" />
+    <Content Include="admin\images\luck.gif" />
+    <Content Include="admin\images\mail_leftbg.gif" />
+    <Content Include="admin\images\mail_rightbg.gif" />
+    <Content Include="admin\images\menu_bg.gif" />
+    <Content Include="admin\images\menu_bg.jpg" />
+    <Content Include="admin\images\menu_bg1.gif" />
+    <Content Include="admin\images\menu_bg2.gif" />
+    <Content Include="admin\images\menu_bgs.gif" />
+    <Content Include="admin\images\menu_bt.jpg" />
+    <Content Include="admin\images\menu_icon.gif" />
+    <Content Include="admin\images\menu_topimg.gif" />
+    <Content Include="admin\images\menu_topline.gif" />
+    <Content Include="admin\images\mime.gif" />
+    <Content Include="admin\images\nav-right-bg.gif" />
+    <Content Include="admin\images\news-title-bg.gif" />
+    <Content Include="admin\images\ok.gif" />
+    <Content Include="admin\images\OK.jpg" />
+    <Content Include="admin\images\opa75.png" />
+    <Content Include="admin\images\out.gif" />
+    <Content Include="admin\images\password.gif" />
+    <Content Include="admin\images\pencil.png" />
+    <Content Include="admin\images\pic1.gif" />
+    <Content Include="admin\images\pic10.gif" />
+    <Content Include="admin\images\pic11.gif" />
+    <Content Include="admin\images\pic12.gif" />
+    <Content Include="admin\images\pic13.gif" />
+    <Content Include="admin\images\pic14.gif" />
+    <Content Include="admin\images\pic15.gif" />
+    <Content Include="admin\images\pic16.gif" />
+    <Content Include="admin\images\pic17.gif" />
+    <Content Include="admin\images\pic18.gif" />
+    <Content Include="admin\images\pic19.gif" />
+    <Content Include="admin\images\pic21.gif" />
+    <Content Include="admin\images\pic22.gif" />
+    <Content Include="admin\images\pic23.gif" />
+    <Content Include="admin\images\pic24.gif" />
+    <Content Include="admin\images\pic25.gif" />
+    <Content Include="admin\images\pic26.gif" />
+    <Content Include="admin\images\pic5.gif" />
+    <Content Include="admin\images\pic6.gif" />
+    <Content Include="admin\images\pic7.gif" />
+    <Content Include="admin\images\pic8.gif" />
+    <Content Include="admin\images\pic9.gif" />
+    <Content Include="admin\images\Redirects.gif" />
+    <Content Include="admin\images\remove.png" />
+    <Content Include="admin\images\reply.gif" />
+    <Content Include="admin\images\report2_%28add%29.gif" />
+    <Content Include="admin\images\report2_%28delete%29.gif" />
+    <Content Include="admin\images\right_smbg.jpg" />
+    <Content Include="admin\images\servicezhgb2312.gif" />
+    <Content Include="admin\images\set.gif" />
+    <Content Include="admin\images\set2.gif" />
+    <Content Include="admin\images\shadow_bg.jpg" />
+    <Content Include="admin\images\sitebackup.gif" />
+    <Content Include="admin\images\skin.css" />
+    <Content Include="admin\images\smallbg.jpg" />
+    <Content Include="admin\images\st.gif" />
+    <Content Include="admin\images\st.png" />
+    <Content Include="admin\images\stop.gif" />
+    <Content Include="admin\images\str.gif" />
+    <Content Include="admin\images\Submit_bg.gif" />
+    <Content Include="admin\images\t2bg1.gif" />
+    <Content Include="admin\images\t2bg2.gif" />
+    <Content Include="admin\images\t2bg4.gif" />
+    <Content Include="admin\images\t2bg5.gif" />
+    <Content Include="admin\images\title.gif" />
+    <Content Include="admin\images\title_bg1.jpg" />
+    <Content Include="admin\images\title_bg2.jpg" />
+    <Content Include="admin\images\tj.jpg" />
+    <Content Include="admin\images\to.gif" />
+    <Content Include="admin\images\tool-down-pic.gif" />
+    <Content Include="admin\images\top-right.gif" />
+    <Content Include="admin\images\top.jpg" />
+    <Content Include="admin\images\top_bt.jpg" />
+    <Content Include="admin\images\ts.gif" />
+    <Content Include="admin\images\user-info.gif" />
+    <Content Include="admin\images\user.gif" />
+    <Content Include="admin\images\usercontrol.gif" />
+    <Content Include="admin\images\video-play.png" />
+    <Content Include="admin\images\vie.gif" />
+    <Content Include="admin\images\vimeo-play.png" />
+    <Content Include="admin\images\X.gif" />
+    <Content Include="admin\images\xw.jpg" />
+    <Content Include="admin\images\yc.gif" />
+    <Content Include="admin\images\youtube-play.png" />
+    <Content Include="admin\images\yx.gif" />
+    <Content Include="admin\images\zoom.png" />
+    <Content Include="admin\index.aspx" />
+    <Content Include="admin\js\classlist.min.js" />
+    <Content Include="admin\js\d4cff3922527a903.js" />
+    <Content Include="admin\js\media.match.min.js" />
+    <Content Include="admin\js\moo.fx.js" />
+    <Content Include="admin\js\moo.fx.pack.js" />
+    <Content Include="admin\js\prototype.lite.js" />
+    <Content Include="admin\js\respond.min.js" />
+    <Content Include="admin\JT1.aspx" />
+    <Content Include="admin\Login.aspx" />
+    <Content Include="admin\main.aspx" />
+    <Content Include="admin\menu.aspx" />
+    <Content Include="admin\picture\1-160923124s9591.jpg" />
+    <Content Include="admin\picture\1-1609231252532g.png" />
+    <Content Include="admin\picture\1-16092312530u20.jpg" />
+    <Content Include="admin\picture\1-160923125q5525.png" />
+    <Content Include="admin\picture\1-160923125r5930.png" />
+    <Content Include="admin\picture\1-16092315204cq.jpg" />
+    <Content Include="admin\picture\1-160923161324w8.jpg" />
+    <Content Include="admin\picture\1-160923161640162.jpg" />
+    <Content Include="admin\picture\1-160923161946115-lp.jpg" />
+    <Content Include="admin\picture\1-160923161946115.jpg" />
+    <Content Include="admin\picture\1-160923161f4q3-lp.jpg" />
+    <Content Include="admin\picture\1-160923161i0401-lp.jpg" />
+    <Content Include="admin\picture\1-160923161j9348-lp.jpg" />
+    <Content Include="admin\picture\1-160923161q1r9-lp.jpg" />
+    <Content Include="admin\picture\1-160923161s2y2-lp.jpg" />
+    <Content Include="admin\picture\1-160923161u4h8-lp.jpg" />
+    <Content Include="admin\picture\1-1609231a0340-l.jpg" />
+    <Content Include="admin\picture\1-1609231a10ic.jpg" />
+    <Content Include="admin\picture\1-1609231a1240-l.jpg" />
+    <Content Include="admin\picture\1-1609231a200509.jpg" />
+    <Content Include="admin\picture\1-1609231a4070-l.jpg" />
+    <Content Include="admin\picture\1-1609231f12a61-lp.jpg" />
+    <Content Include="admin\picture\1-1609231f15b63-lp.jpg" />
+    <Content Include="admin\picture\1-1609231f24cq-lp.jpg" />
+    <Content Include="admin\picture\1-1609231f3142w-lp.jpg" />
+    <Content Include="admin\picture\1-1609231f355a5-lp.jpg" />
+    <Content Include="admin\picture\1-1609231f446492-lp.jpg" />
+    <Content Include="admin\picture\1-1609231f512239-lp.jpg" />
+    <Content Include="admin\picture\1-1609231g5522w.jpg" />
+    <Content Include="admin\picture\1-1609231g6403r.jpg" />
+    <Content Include="admin\picture\1-16121g619320-l.jpg" />
+    <Content Include="admin\picture\1-16121g61952p1.jpg" />
+    <Content Include="admin\picture\1468986284.png" />
+    <Content Include="admin\picture\1469887325114184.jpg" />
+    <Content Include="admin\picture\1471003758.jpg" />
+    <Content Include="admin\picture\x1.jpg" />
+    <Content Include="admin\picture\x2.jpg" />
+    <Content Include="admin\picture\x3.jpg" />
+    <Content Include="admin\skin\css\base.css" />
+    <Content Include="admin\skin\css\main.css" />
+    <Content Include="admin\skin\css\menu.css" />
+    <Content Include="admin\skin\delete.gif" />
+    <Content Include="admin\skin\edit.gif" />
+    <Content Include="admin\skin\images\frame\addnews.gif" />
+    <Content Include="admin\skin\images\frame\arr3.gif" />
+    <Content Include="admin\skin\images\frame\arr4.gif" />
+    <Content Include="admin\skin\images\frame\arrfc.gif" />
+    <Content Include="admin\skin\images\frame\arrl.gif" />
+    <Content Include="admin\skin\images\frame\arrr.gif" />
+    <Content Include="admin\skin\images\frame\book.gif" />
+    <Content Include="admin\skin\images\frame\book1.gif" />
+    <Content Include="admin\skin\images\frame\bottombg.gif" />
+    <Content Include="admin\skin\images\frame\file_dir.gif" />
+    <Content Include="admin\skin\images\frame\gtk-del.png" />
+    <Content Include="admin\skin\images\frame\gtk-sadd.png" />
+    <Content Include="admin\skin\images\frame\ico_spider.gif" />
+    <Content Include="admin\skin\images\frame\logo.gif" />
+    <Content Include="admin\skin\images\frame\manage1.gif" />
+    <Content Include="admin\skin\images\frame\menu-ex.png" />
+    <Content Include="admin\skin\images\frame\menuarrow.gif" />
+    <Content Include="admin\skin\images\frame\menubg.gif" />
+    <Content Include="admin\skin\images\frame\menumember.gif" />
+    <Content Include="admin\skin\images\frame\menusearch.gif" />
+    <Content Include="admin\skin\images\frame\menu_bg.gif" />
+    <Content Include="admin\skin\images\frame\menu_bottom.gif" />
+    <Content Include="admin\skin\images\frame\menu_top.gif" />
+    <Content Include="admin\skin\images\frame\part-index.gif" />
+    <Content Include="admin\skin\images\frame\qc.gif" />
+    <Content Include="admin\skin\images\frame\search.gif" />
+    <Content Include="admin\skin\images\frame\sp_bg.gif" />
+    <Content Include="admin\skin\images\frame\topbg.gif" />
+    <Content Include="admin\skin\images\frame\topitembg.gif" />
+    <Content Include="admin\skin\images\frame\wbg.gif" />
+    <Content Include="admin\skin\js\frame\menu.js" />
+    <Content Include="admin\sqlDel.aspx" />
+    <Content Include="admin\top.aspx" />
+    <Content Include="APP_Data\Jiapu.mdf" />
+    <Content Include="APP_Data\Jiapu_Log.ldf" />
+    <Content Include="SDMfront.aspx" />
+    <Content Include="sql.sql" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin\AdminInfo.aspx.cs">
+      <DependentUpon>AdminInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\AdminInfo.aspx.designer.cs">
+      <DependentUpon>AdminInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\foot.aspx.cs">
+      <DependentUpon>foot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\foot.aspx.designer.cs">
+      <DependentUpon>foot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\GerenInfo.aspx.cs">
+      <DependentUpon>GerenInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\GerenInfo.aspx.designer.cs">
+      <DependentUpon>GerenInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\GerenInfoAdd.aspx.cs">
+      <DependentUpon>GerenInfoAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\GerenInfoAdd.aspx.designer.cs">
+      <DependentUpon>GerenInfoAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\JT1.aspx.cs">
+      <DependentUpon>JT1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\JT1.aspx.designer.cs">
+      <DependentUpon>JT1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\main.aspx.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\main.aspx.designer.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\menu.aspx.cs">
+      <DependentUpon>menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\menu.aspx.designer.cs">
+      <DependentUpon>menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\sqlDel.aspx.cs">
+      <DependentUpon>sqlDel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\sqlDel.aspx.designer.cs">
+      <DependentUpon>sqlDel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\top.aspx.cs">
+      <DependentUpon>top.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\top.aspx.designer.cs">
+      <DependentUpon>top.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SDMfront.aspx.cs">
+      <DependentUpon>SDMfront.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SDMfront.aspx.designer.cs">
+      <DependentUpon>SDMfront.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="admin\css\vssver2.scc" />
+    <Content Include="admin\images\vssver2.scc" />
+    <Content Include="admin\skin\vssver2.scc" />
+    <Content Include="admin\skin\css\vssver2.scc" />
+    <Content Include="admin\skin\images\frame\vssver2.scc" />
+    <Content Include="admin\skin\js\frame\vssver2.scc" />
+    <Content Include="admin\fonts\fontawesome-webfont.eot" />
+    <Content Include="admin\fonts\fontawesome-webfont.ttf" />
+    <Content Include="admin\fonts\fontawesome-webfont.woff" />
+    <Content Include="admin\fonts\fontawesome-webfont.woff2" />
+    <Content Include="admin\fonts\FontAwesome.otf" />
+    <Content Include="admin\fonts\web-icons.woff2" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDM.BLL\SDM.BLL.csproj">
+      <Project>{fa83fbe4-17b5-4e9b-94b2-679513bac89b}</Project>
+      <Name>SDM.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDM.DAL\SDM.DAL.csproj">
+      <Project>{d57cea2d-51b5-40da-a7d1-194e1378e9e5}</Project>
+      <Name>SDM.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDM.Model\SDM.Model.csproj">
+      <Project>{cae89abd-4f92-4c0c-bb9b-28c5045f74ea}</Project>
+      <Name>SDM.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57381</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:57381/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
